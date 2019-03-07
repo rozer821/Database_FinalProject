@@ -78,7 +78,7 @@
    <div id ="map"></div>
     
    <script src="js/ini_map.js"></script>
-   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCELS8CERBEXfpqoFl1nGNydVRKcb3FYnA&callback=initMap"
+   <script src="https://maps.googleapis.com/maps/api/js?key=***************&callback=initMap"
     async defer></script>
   </body>
   
